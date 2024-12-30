@@ -16,7 +16,7 @@ Save Results: Save the annotated image to your local machine.
 
 User-Friendly GUI: Built with tkinter, the interface is intuitive and easy to use.
 
-Use Cases
+# Use Cases
 Object Detection: Identify and locate objects in images.
 
 Image Annotation: Automatically annotate images with bounding boxes and labels.
@@ -25,8 +25,8 @@ Object Counting: Count the number of specific objects in an image (e.g., people,
 
 Education and Research: Learn and experiment with YOLOv8 and object detection techniques.
 
-Getting Started
-Prerequisites
+# Getting Started
+## Prerequisites
 Before running the project, ensure you have the following installed:
 
 Python 3.7 or higher
@@ -41,7 +41,7 @@ Pillow (PIL)
 
 tkinter (usually comes pre-installed with Python)
 
-Installation
+# Installation
 Clone the repository:
 
 bash
@@ -77,7 +77,7 @@ Save the Result:
 
 Click the "Save Result" button to save the annotated image to your local machine.
 
-Screenshots
+
 Upload Image
 Upload an image for object detection.
 
@@ -96,8 +96,6 @@ yolov8s.pt	Small
 yolov8m.pt	Medium
 yolov8l.pt	Large
 yolov8x.pt	Extra Large (slowest, highest accuracy)
-Contributing
-Contributions are welcome! If you’d like to contribute, please follow these steps:
 
 Fork the repository.
 
@@ -120,7 +118,7 @@ Tkinter for the GUI.
 Contact
 For questions or feedback, feel free to reach out:
 
-Name: Ali Rezai
+Name: Alira hshmi
 
 Email: alirahshmi@gmail.com
 
