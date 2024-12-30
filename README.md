@@ -1,4 +1,4 @@
-Object Detection on Images Using Pretrained YOLOv8 Model
+#Object Detection on Images Using Pretrained YOLOv8 Model
 YOLOv8
 
 This project provides a user-friendly GUI application for performing object detection on images using the YOLOv8 model. It allows users to upload images, detect objects, and save the annotated results. The application supports multiple YOLOv8 model sizes, making it flexible for different use cases.
