@@ -119,7 +119,5 @@ Email: alirahshmi@gmail.com
 
 GitHub: alirzx
 
-Enjoy using the Object Detection on Images Using Pretrained YOLOv8 Model application! 🚀
-
-This README is designed to be professional, user-friendly, and informative, making it easy for users and contributors to understand and use your project. Let me know if you’d like to add or modify anything! 😊
+Enjoy using the Object Detection on Images Using Pretrained YOLOv8 Model application! 🚀😊
 
