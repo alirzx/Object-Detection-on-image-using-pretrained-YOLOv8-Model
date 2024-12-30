@@ -44,20 +44,15 @@ tkinter (usually comes pre-installed with Python)
 # Installation
 Clone the repository:
 
-bash
-Copy
 git clone https://github.com/alirzx/Object-Detection-on-image-using-pretrained-YOLOv8-Model.git
 cd Object-Detection-on-image-using-pretrained-YOLOv8-Model
 Install the required Python packages:
 
-bash
-Copy
+
 pip install torch ultralytics opencv-python Pillow
 Usage
 Run the application:
 
-bash
-Copy
 python object_detection_gui.py
 Upload an Image:
 
@@ -115,7 +110,7 @@ OpenCV for image processing.
 
 Tkinter for the GUI.
 
-Contact
+# Contact
 For questions or feedback, feel free to reach out:
 
 Name: Alira hshmi
