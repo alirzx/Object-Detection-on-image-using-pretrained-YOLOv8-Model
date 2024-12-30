@@ -1,9 +1,9 @@
-#Object Detection on Images Using Pretrained YOLOv8 Model
-YOLOv8
+# Object Detection on Images Using Pretrained YOLOv8 Model YOLOv8
+
 
 This project provides a user-friendly GUI application for performing object detection on images using the YOLOv8 model. It allows users to upload images, detect objects, and save the annotated results. The application supports multiple YOLOv8 model sizes, making it flexible for different use cases.
 
-Features
+# Features
 Multiple YOLOv8 Models: Choose from different YOLOv8 model sizes (yolov8n.pt, yolov8s.pt, yolov8m.pt, yolov8l.pt, yolov8x.pt) for varying levels of accuracy and speed.
 
 Image Upload: Upload images in common formats (JPG, JPEG, PNG) for object detection.
